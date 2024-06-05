@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malufmatos&label=Profile%20views&color=0e75b6&style=flat" alt="malufmatos" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malufmatos" alt="malufmatos" /></a> </p>
+- 🌱 i’m currently learning **JavaScript and TypeScript**
 
-- 🌱 i’m currently learning **JavaScripy and TypeScript**
+- 🔭 [looking foward to have my first job experience](looking foward to have my first job experience)
+
+- 😸 fun fact: [i knew i wanted to work with programming since i was 11 years old](i knew i wanted to work with programming since i was 11 years old)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
