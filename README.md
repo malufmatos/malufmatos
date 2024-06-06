@@ -1,5 +1,5 @@
-<h1 align="center">hi! i'm maria luiza matos</h1>
-<h3 align="center">an computer science student from brazil :)</h3>
+<h1 align="center">hi! i'm Maria Luiza Matos</h1>
+<h3 align="center">a computer science student from Brazil :)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=malufmatos&label=Profile%20views&color=0e75b6&style=flat" alt="malufmatos" /> </p>
 
