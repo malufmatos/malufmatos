@@ -4,7 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=malufmatos&label=Profile%20views&color=0e75b6&style=flat" alt="malufmatos" /> </p>
 
 i’m currently learning **JavaScript and TypeScript**
-looking foward to have my first job experience
 
 <h3 align="left">connect with me:</h3>
 <p align="center">
