@@ -1,5 +1,6 @@
-<h1 align="center">hi! i'm Maria Luiza Matos</h1>
-<h3 align="center">a computer science student from Aracaju-SE, Brazil :)</h3>
+<h1 align="center">oi! me chamo Maria Luiza Matos</h1>
+<h3 align="center">uma estudante de ciência da computação :)</h3>
+<p align="center">atualmente estou estudando HTML & CSS, JavaScript e Java. </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=malufmatos&label=Profile%20views&color=0e75b6&style=flat" alt="malufmatos" /> </p>
 
