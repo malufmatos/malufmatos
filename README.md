@@ -35,12 +35,12 @@ coming soon...
 ### 🕊 find me
 
 <p align="left">
-  <a href="https://github.com/seu-usuario" target="_blank">github</a> ·
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">linkedin</a>
+  <a href="https://github.com/malufmatos" target="_blank">github</a> ·
+  <a href="https://www.linkedin.com/in/malufmatos" target="_blank">linkedin</a>
 </p>
 
 ---
 
 <p align="center" style="font-size:12px">
-  code & calm · last updated 29 july 2025
+  code & calm · last updated 29 august 2025
 </p>
