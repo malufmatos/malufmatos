@@ -11,12 +11,14 @@ Mexico 🇲🇽 • Open to international opportunities
 </p>
 
 <p align="center">
-Building accessible, interactive and visually expressive web experiences.
+Combining technology, design and creative development to build modern digital experiences.
 </p>
+
+<br/>
 
 <p align="center">
   <a href="https://malufmatos.dev">
-    <img src="https://img.shields.io/badge/portfolio-42FFEC?style=for-the-badge&logo=vercel&logoColor=black" />
+    <img src="https://img.shields.io/badge/visit%20portfolio-42FFEC?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
 
   <a href="https://linkedin.com/in/malufmatos">
@@ -32,12 +34,12 @@ Building accessible, interactive and visually expressive web experiences.
 
 ## about me
 
-Computer Science student and frontend engineer focused on modern web experiences, UI systems and creative development.
+Computer Science student and Software Developer focused on modern web experiences, UI systems and creative development.
 
 ```ts
 const maria = {
   location: "Mexico 🇲🇽",
-  
+
   education:
     "Computer Science @ Federal University of Sergipe",
 
@@ -64,7 +66,7 @@ const maria = {
     "Design Systems",
   ],
 };
-````
+```
 
 ---
 
