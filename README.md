@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Frontend Engineer focused on scalable and accessible interfaces
+Software Developer building accessible and interactive web experiences
 </h3>
 
 <p align="center">
