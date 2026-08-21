@@ -1,55 +1,35 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=F37545&height=140&section=header&text=Maria%20Luiza&fontColor=ffffff&fontSize=50&animation=fadeIn" />
-</p>
+<div align="center">
 
-<h3 align="center">
-Software Developer building accessible and interactive web experiences
-</h3>
+# Maria Luiza Matos
 
-<p align="center">
-Mexico 🇲🇽 • Open to international opportunities
-</p>
+### Software Developer · UI Engineering · Interactive & Accessible Web Experiences
 
-<p align="center">
-Combining technology, design and creative development to build modern digital experiences.
-</p>
+Computer Science student building modern, accessible and visually engaging digital experiences with React, Next.js and TypeScript.
 
-<br/>
+[Portfolio](https://malufmatos.dev) · [LinkedIn](https://linkedin.com/in/malufmatos) · [Email](mailto:malufmatos22@gmail.com)
 
-<p align="center">
-  <a href="https://malufmatos.dev">
-    <img src="https://img.shields.io/badge/visit%20portfolio-42FFEC?style=for-the-badge&logo=vercel&logoColor=black" />
-  </a>
-
-  <a href="https://linkedin.com/in/malufmatos">
-    <img src="https://img.shields.io/badge/linkedin-F37545?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:malufmatos22@gmail.com">
-    <img src="https://img.shields.io/badge/email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
 ## about me
 
-Computer Science student and Software Developer focused on modern web experiences, UI systems and creative development.
+My journey in technology started with **robotics and research**, where I learned to approach problems through experimentation, curiosity and hands-on building.
+
+Since then, I've worked on **real-world products, institutional platforms, developer communities and hackathons**, combining software engineering, design and interactive development.
+
+I'm especially interested in the intersection of **software engineering and user experience** — building systems that are both functional and expressive.
 
 ```ts
 const maria = {
-  location: "Mexico 🇲🇽",
-
-  education:
-    "Computer Science @ Federal University of Sergipe",
-
-  currentlyWorkingOn: [
-    "interactive web experiences",
-    "frontend architecture",
-    "AI & augmented reality interfaces",
+  education: "Computer Science @ Federal University of Sergipe",
+  location: "Brazil / Mexico",
+  focus: [
+    "UI Engineering",
+    "Frontend Architecture",
+    "Interactive Web Experiences",
   ],
-
-  techStack: [
+  stack: [
     "React",
     "Next.js",
     "TypeScript",
@@ -57,12 +37,10 @@ const maria = {
     "Node.js",
     "Supabase",
   ],
-
-  interests: [
-    "UI Engineering",
-    "Creative Development",
-    "Motion Design",
+  principles: [
     "Accessibility",
+    "Performance",
+    "Responsive Design",
     "Design Systems",
   ],
 };
@@ -70,47 +48,58 @@ const maria = {
 
 ---
 
+## selected work
+
+### **UFS.br**
+Frontend contribution to the redesign of the Federal University of Sergipe institutional portal, focusing on accessibility, responsive interfaces, and modern web standards.  
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS`
+
+### **Mentary**
+Frontend development of an AR-powered educational platform actively used by students across Brazil.  
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS`
+
+### **RaiaTech**
+Designed and developed the website for a technology consulting startup, combining visual design, responsive development, and interactive experiences.  
+`Next.js` · `TypeScript` · `Tailwind CSS`
+
+---
+
 ## tech stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,supabase,figma,git,github,vscode" />
-</p>
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript, Python, HTML5, CSS3 |
+| **Frontend** | React, Next.js, Tailwind CSS, Framer Motion |
+| **Backend & APIs** | Node.js, Supabase, REST APIs |
+| **Tools & Design** | Git, GitHub, Figma |
+| **Engineering** | UI Engineering, Accessibility (a11y), Responsive Design, Agile/Scrum |
 
 ---
 
 ## currently exploring
 
-* motion-driven interfaces
-* accessibility-first frontend architecture
-* immersive educational experiences
-* AI-powered interactions
-* augmented reality on the web
+- ✦ Motion-driven interfaces & micro-interactions
+- ✦ Accessibility-first frontend architecture
+- ✦ Immersive educational experiences & AR on the web
+- ✦ AI-powered interface design
 
 ---
 
-## github activity
+## beyond the code
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=malufmatos&theme=transparent&hide_border=true&ring=F37545&fire=F37545&currStreakLabel=F37545&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" 
-  />
-</p>
+I care about technology that feels human, useful, and memorable. Outside of writing code, I've been involved with:
 
-<p align="center">
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=malufmatos&show_icons=true&bg_color=00000000&hide_border=true&title_color=F37545&text_color=ffffff&icon_color=42FFEC"
-  />
-
-<img 
- height="180em"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=malufmatos&layout=compact&bg_color=00000000&hide_border=true&title_color=F37545&text_color=ffffff"
-/>
-
-</p>
+- Robotics research and competitions
+- Web development communities & technical education
+- Hackathons and innovation challenges
+- Technology initiatives focused on inclusion and diversity
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F37545&height=100&section=footer"/>
-</p>
+<div align="center">
+
+### Let's build something meaningful.
+
+[Website](https://malufmatos.dev) · [LinkedIn](https://linkedin.com/in/malufmatos) · [GitHub](https://github.com/malufmatos) · [Email](mailto:malufmatos22@gmail.com)
+
+</div>
