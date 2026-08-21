@@ -51,7 +51,7 @@ const maria = {
 ## selected work
 
 ### **UFS.br**
-Frontend contribution to the redesign of the Federal University of Sergipe institutional portal, focusing on accessibility, responsive interfaces, and modern web standards.  
+Frontend development of an educational platform incorporating augmented reality experiences, actively used by students across Brazil.  
 `React` · `Next.js` · `TypeScript` · `Tailwind CSS`
 
 ### **Mentary**
@@ -59,7 +59,7 @@ Frontend development of an AR-powered educational platform actively used by stud
 `React` · `Next.js` · `TypeScript` · `Tailwind CSS`
 
 ### **RaiaTech**
-Designed and developed the website for a technology consulting startup, combining visual design, responsive development, and interactive experiences.  
+Frontend development of web experiences for a technology consulting startup, combining responsive interfaces, reusable components, and interactive design.  
 `Next.js` · `TypeScript` · `Tailwind CSS`
 
 ---
@@ -73,15 +73,6 @@ Designed and developed the website for a technology consulting startup, combinin
 | **Backend & APIs** | Node.js, Supabase, REST APIs |
 | **Tools & Design** | Git, GitHub, Figma |
 | **Engineering** | UI Engineering, Accessibility (a11y), Responsive Design, Agile/Scrum |
-
----
-
-## currently exploring
-
-- ✦ Motion-driven interfaces & micro-interactions
-- ✦ Accessibility-first frontend architecture
-- ✦ Immersive educational experiences & AR on the web
-- ✦ AI-powered interface design
 
 ---
 
