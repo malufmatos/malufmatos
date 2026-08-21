@@ -2,7 +2,7 @@
 
 # Maria Luiza Matos
 
-### Software Developer · UI Engineering · Interactive & Accessible Web Experiences
+### Software Developer · Frontend Engineering · Interactive & Accessible Web Experiences
 
 Computer Science student building modern, accessible and visually engaging digital experiences with React, Next.js and TypeScript.
 
@@ -50,15 +50,15 @@ const maria = {
 
 ## selected work
 
-### **UFS.br**
+### [UFS.br](https://www.ufs.br/noticia/79408-nos-seus-58-anos-ufs-moderniza-comunicacao-e-lanca-novo-portal-focado-em-acessibilidade)
 Frontend development of an educational platform incorporating augmented reality experiences, actively used by students across Brazil.  
 `React` · `Next.js` · `TypeScript` · `Tailwind CSS`
 
-### **Mentary**
+### [Mentary](https://mentary.com.br)
 Frontend development of an AR-powered educational platform actively used by students across Brazil.  
 `React` · `Next.js` · `TypeScript` · `Tailwind CSS`
 
-### **RaiaTech**
+### [RaiaTech](https://www.raiatech.com.br)
 Frontend development of web experiences for a technology consulting startup, combining responsive interfaces, reusable components, and interactive design.  
 `Next.js` · `TypeScript` · `Tailwind CSS`
 
