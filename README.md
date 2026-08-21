@@ -91,6 +91,6 @@ I care about technology that feels human, useful, and memorable. Outside of writ
 
 ### Let's build something meaningful.
 
-[Website](https://malufmatos.dev) · [LinkedIn](https://linkedin.com/in/malufmatos) · [GitHub](https://github.com/malufmatos) · [Email](mailto:malufmatos22@gmail.com)
+[Website](https://malufmatos.dev) · [LinkedIn](https://linkedin.com/in/malufmatos) · [Email](mailto:malufmatos22@gmail.com)
 
 </div>
